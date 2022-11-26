@@ -1,4 +1,4 @@
-twitch-videoad.js application/javascript
+twitch-videoad.js application/javascript//Hello
 (function() {
     if ( /(^|\.)twitch\.tv$/.test(document.location.hostname) === false ) { return; }
     function declareOptions(scope) {
